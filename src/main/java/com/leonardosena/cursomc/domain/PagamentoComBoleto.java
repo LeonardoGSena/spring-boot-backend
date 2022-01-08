@@ -1,7 +1,6 @@
 package com.leonardosena.cursomc.domain;
 
 import java.util.Date;
-import java.util.Objects;
 
 import javax.persistence.Entity;
 
